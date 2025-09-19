@@ -7,7 +7,7 @@ A comprehensive data analytics solution that leverages Python and Power BI to an
 
 ![Vendor Performance Preview](https://github.com/AdilShamim8/Vendor-Performance-Analysis/blob/main/Dashboard/vendor_performance.jpg)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
@@ -21,11 +21,11 @@ A comprehensive data analytics solution that leverages Python and Power BI to an
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🔍 Overview
+## Overview
 
 This project provides an end-to-end solution for analyzing vendor performance data. It includes data processing scripts, exploratory data analysis notebooks, interactive Power BI dashboards, and comprehensive reports. The analysis helps businesses evaluate vendor reliability, cost-effectiveness, delivery performance, and quality metrics to make data-driven decisions for vendor management.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── data/
@@ -43,7 +43,7 @@ This project provides an end-to-end solution for analyzing vendor performance da
 └── README.md                          # Project documentation
 ```
 
-## ✨ Key Features
+## Key Features
 
 - **Comprehensive Vendor Analysis**: Evaluate vendor performance across multiple KPIs
 - **Interactive Dashboards**: Power BI visualizations for dynamic data exploration
@@ -52,7 +52,7 @@ This project provides an end-to-end solution for analyzing vendor performance da
 - **Trend Identification**: Time-series analysis to identify performance patterns
 - **Multi-dimensional Analysis**: Compare vendors across different metrics and categories
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**: Data processing, analysis, and visualization
 - **Pandas**: Data manipulation and analysis
@@ -61,7 +61,7 @@ This project provides an end-to-end solution for analyzing vendor performance da
 - **Jupyter Notebooks**: Exploratory data analysis
 - **SQL**: Database queries (via Python)
 
-## 🚀 Setup and Installation
+## Setup and Installation
 
 1. **Clone the repository**
    ```bash
@@ -83,7 +83,7 @@ This project provides an end-to-end solution for analyzing vendor performance da
    - Install Power BI Desktop (if not already installed)
    - Open `dashboard/vendor_performance.pbix`
 
-## 📊 Usage
+## Usage
 
 ### Data Processing
 
@@ -113,7 +113,7 @@ The Power BI dashboard (`vendor_performance.pbix`) provides interactive visualiz
 - Quality control statistics
 - Trend analysis over time
 
-## 🔄 Analysis Workflow
+## Analysis Workflow
 
 1. **Data Collection & Preparation**: Process raw vendor data using Python scripts
 2. **Exploratory Analysis**: Identify patterns and outliers using Jupyter notebooks
@@ -121,7 +121,7 @@ The Power BI dashboard (`vendor_performance.pbix`) provides interactive visualiz
 4. **Visualization**: Create interactive dashboards in Power BI
 5. **Reporting**: Generate comprehensive reports with findings and recommendations
 
-## 📈 Dashboard
+## Dashboard
 
 The Power BI dashboard features several interactive views:
 - **Vendor Overview**: Summary metrics for all vendors
@@ -130,7 +130,7 @@ The Power BI dashboard features several interactive views:
 - **Cost Analysis**: Price variations and cost-efficiency metrics
 - **Quality Metrics**: Defect rates, returns, and quality scores
 
-## 💡 Insights
+## Insights
 
 The analysis provides actionable insights including:
 - Identification of top and underperforming vendors
@@ -140,7 +140,7 @@ The analysis provides actionable insights including:
 - Seasonal variations in vendor performance
 - Vendor risk assessment and mitigation strategies
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -150,10 +150,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
-Developed by [Adil Shamim](https://github.com/AdilShamim8)
+Developed by [Adil Shamim](https://adilshamim.me/)
