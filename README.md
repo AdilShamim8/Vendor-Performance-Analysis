@@ -3,6 +3,22 @@
 ## Overview
 This repository contains a comprehensive analysis of vendor performance metrics to optimize procurement decisions and supply chain management. The project aims to evaluate vendors based on key performance indicators (KPIs) such as delivery timeliness, quality consistency, pricing competitiveness, and responsiveness.
 
+##Project Structure
+
+├── data/
+│   └── vendor_sales_summary.csv
+├── notebooks/
+│   ├── Exploratory Data Analysis.ipynb
+│   └── Vendor Performance Analysis.ipynb
+├── scripts/
+│   ├── get_vendor_summary.py
+│   └── ingestion_db.py
+├── dashboard/
+│   └── vendor_performance.pbix
+├── reports/
+│   └── Vendor Performance Report.pdf
+└── README.md
+
 ## Table of Contents
 - [Features](#features)
 - [Project Structure](#project-structure)
