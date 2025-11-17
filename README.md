@@ -71,7 +71,7 @@ This project provides an end-to-end solution for analyzing vendor performance da
 
 2. **Set up Python environment**
    ```bash
-   # Create and activate virtual environment (optional but recommended)
+   # Create and activate a virtual environment (optional but recommended)
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    
@@ -132,7 +132,7 @@ The Power BI dashboard features several interactive views:
 
 ## Insights
 
-The analysis provides actionable insights including:
+The analysis provides actionable insights, including:
 - Identification of top and underperforming vendors
 - Cost-saving opportunities through vendor optimization
 - Delivery reliability patterns and improvement areas
@@ -156,4 +156,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+**⭐ Star this repo if you find it helpful!**
+
+Last Updated: November 2025
+
+---
+
 Developed by [Adil Shamim](https://adilshamim.me/)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adilshamim8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adilshamim8)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/adil_shamim8)
